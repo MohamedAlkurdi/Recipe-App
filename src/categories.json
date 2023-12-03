@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Chicken"
+    },{
+        "name":"Beef"
+    },{
+        "name":"Side"
+    },{
+        "name":"Dessert"
+    },{
+        "name":"Vegetarian"
+    },{
+        "name":"Pork"
+    },{
+        "name":"Vegan"
+    },{
+        "name":"Seafood"
+    },{
+        "name":"Lamb"
+    },{
+        "name":"Breakfast"
+    },{
+        "name":"Miscellaneous"
+    },{
+        "name":"Pasta"
+    }
+
+]

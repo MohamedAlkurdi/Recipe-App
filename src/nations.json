@@ -1,0 +1,270 @@
+[
+  {
+      "num_code": "32",
+      "alpha_2_code": "AR",
+      "alpha_3_code": "ARG",
+      "en_short_name": "Argentina",
+      "nationality": "Argentine"
+  },
+  {
+      "num_code": "51",
+      "alpha_2_code": "AM",
+      "alpha_3_code": "ARM",
+      "en_short_name": "Armenia",
+      "nationality": "Armenian"
+  },
+  {
+      "num_code": "36",
+      "alpha_2_code": "AU",
+      "alpha_3_code": "AUS",
+      "en_short_name": "Australia",
+      "nationality": "Australian"
+  },
+  {
+      "num_code": "124",
+      "alpha_2_code": "CA",
+      "alpha_3_code": "CAN",
+      "en_short_name": "Canada",
+      "nationality": "Canadian"
+  },
+  {
+      "num_code": "156",
+      "alpha_2_code": "CN",
+      "alpha_3_code": "CHN",
+      "en_short_name": "China",
+      "nationality": "Chinese"
+  },
+  {
+      "num_code": "191",
+      "alpha_2_code": "HR",
+      "alpha_3_code": "HRV",
+      "en_short_name": "Croatia",
+      "nationality": "Croatian"
+  },
+  {
+      "num_code": "208",
+      "alpha_2_code": "DK",
+      "alpha_3_code": "DNK",
+      "en_short_name": "Denmark",
+      "nationality": "Danish"
+  },
+  {
+      "num_code": "818",
+      "alpha_2_code": "EG",
+      "alpha_3_code": "EGY",
+      "en_short_name": "Egypt",
+      "nationality": "Egyptian"
+  },
+  {
+      "num_code": "250",
+      "alpha_2_code": "FR",
+      "alpha_3_code": "FRA",
+      "en_short_name": "France",
+      "nationality": "French"
+  },
+  {
+      "num_code": "268",
+      "alpha_2_code": "GE",
+      "alpha_3_code": "GEO",
+      "en_short_name": "Georgia",
+      "nationality": "Georgian"
+  },
+  {
+      "num_code": "276",
+      "alpha_2_code": "DE",
+      "alpha_3_code": "DEU",
+      "en_short_name": "Germany",
+      "nationality": "German"
+  },
+  {
+      "num_code": "300",
+      "alpha_2_code": "GR",
+      "alpha_3_code": "GRC",
+      "en_short_name": "Greece",
+      "nationality": "Greek"
+  },
+  {
+      "num_code": "348",
+      "alpha_2_code": "HU",
+      "alpha_3_code": "HUN",
+      "en_short_name": "Hungary",
+      "nationality": "Hungarian"
+  },
+  
+  {
+      "num_code": "356",
+      "alpha_2_code": "IN",
+      "alpha_3_code": "IND",
+      "en_short_name": "India",
+      "nationality": "Indian"
+  },
+  {
+      "num_code": "360",
+      "alpha_2_code": "ID",
+      "alpha_3_code": "IDN",
+      "en_short_name": "Indonesia",
+      "nationality": "Indonesian"
+  },
+  {
+      "num_code": "364",
+      "alpha_2_code": "IR",
+      "alpha_3_code": "IRN",
+      "en_short_name": "Iran",
+      "nationality": "Iranian"
+  },
+  {
+      "num_code": "368",
+      "alpha_2_code": "IQ",
+      "alpha_3_code": "IRQ",
+      "en_short_name": "Iraq",
+      "nationality": "Iraqi"
+  },
+  {
+      "num_code": "372",
+      "alpha_2_code": "IE",
+      "alpha_3_code": "IRL",
+      "en_short_name": "Ireland",
+      "nationality": "Irish"
+  },
+  {
+      "num_code": "380",
+      "alpha_2_code": "IT",
+      "alpha_3_code": "ITA",
+      "en_short_name": "Italy",
+      "nationality": "Italian"
+  },
+  {
+      "num_code": "388",
+      "alpha_2_code": "JM",
+      "alpha_3_code": "JAM",
+      "en_short_name": "Jamaica",
+      "nationality": "Jamaican"
+  },
+  {
+      "num_code": "392",
+      "alpha_2_code": "JP",
+      "alpha_3_code": "JPN",
+      "en_short_name": "Japan",
+      "nationality": "Japanese"
+  },
+  {
+      "num_code": "484",
+      "alpha_2_code": "MX",
+      "alpha_3_code": "MEX",
+      "en_short_name": "Mexico",
+      "nationality": "Mexican"
+  },
+  {
+      "num_code": "504",
+      "alpha_2_code": "MA",
+      "alpha_3_code": "MAR",
+      "en_short_name": "Morocco",
+      "nationality": "Moroccan"
+  },
+  {
+      "num_code": "528",
+      "alpha_2_code": "NL",
+      "alpha_3_code": "NLD",
+      "en_short_name": "Netherlands",
+      "nationality": "Dutch"
+  },
+  {
+      "num_code": "608",
+      "alpha_2_code": "PH",
+      "alpha_3_code": "PHL",
+      "en_short_name": "Philippines",
+      "nationality": "Filipino"
+  },
+  {
+      "num_code": "616",
+      "alpha_2_code": "PL",
+      "alpha_3_code": "POL",
+      "en_short_name": "Poland",
+      "nationality": "Polish"
+  },
+  {
+      "num_code": "620",
+      "alpha_2_code": "PT",
+      "alpha_3_code": "PRT",
+      "en_short_name": "Portugal",
+      "nationality": "Portuguese"
+  },
+  {
+      "num_code": "643",
+      "alpha_2_code": "RU",
+      "alpha_3_code": "RUS",
+      "en_short_name": "Russian Federation",
+      "nationality": "Russian"
+  },
+  {
+      "num_code": "688",
+      "alpha_2_code": "RS",
+      "alpha_3_code": "SRB",
+      "en_short_name": "Serbia",
+      "nationality": "Serbian"
+  },
+  {
+      "num_code": "702",
+      "alpha_2_code": "SG",
+      "alpha_3_code": "SGP",
+      "en_short_name": "Singapore",
+      "nationality": "Singaporean"
+  },
+  {
+      "num_code": "724",
+      "alpha_2_code": "ES",
+      "alpha_3_code": "ESP",
+      "en_short_name": "Spain",
+      "nationality": "Spanish"
+  },
+  {
+      "num_code": "764",
+      "alpha_2_code": "TH",
+      "alpha_3_code": "THA",
+      "en_short_name": "Thailand",
+      "nationality": "Thai"
+  },
+  {
+      "num_code": "788",
+      "alpha_2_code": "TN",
+      "alpha_3_code": "TUN",
+      "en_short_name": "Tunisia",
+      "nationality": "Tunisian"
+  },
+  {
+      "num_code": "792",
+      "alpha_2_code": "TR",
+      "alpha_3_code": "TUR",
+      "en_short_name": "Turkey",
+      "nationality": "Turkish"
+  },
+ 
+  {
+      "num_code": "826",
+      "alpha_2_code": "GB",
+      "alpha_3_code": "GBR",
+      "en_short_name": "United Kingdom of Great Britain and Northern Ireland",
+      "nationality": "British"
+  },
+  {
+      "num_code": "840",
+      "alpha_2_code": "US",
+      "alpha_3_code": "USA",
+      "en_short_name": "United States of America",
+      "nationality": "American"
+  },
+  {
+      "num_code": "704",
+      "alpha_2_code": "VN",
+      "alpha_3_code": "VNM",
+      "en_short_name": "Vietnam",
+      "nationality": "Vietnamese"
+  },
+  {
+      "num_code": "92",
+      "alpha_2_code": "VG",
+      "alpha_3_code": "VGB",
+      "en_short_name": "Virgin Islands (British)",
+      "nationality": "British"
+  }
+]
